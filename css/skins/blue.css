@@ -1,6 +1,6 @@
 /*  Logo and Header Navigation */
 
-.logo {  background:url(../../img/logo/logo-blue.png) no-repeat ; display:block; height:28px; width:148px;} 
+.logo {  background:url(../../img/logo/logo.png) no-repeat ; display:block; height:28px; width:148px;} 
 
 .navi li.active  {  border-top:3px solid #49b0e7;} 
 
