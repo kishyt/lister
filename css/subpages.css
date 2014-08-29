@@ -1,0 +1,43 @@
+/*  About us */
+
+.main2 { height:100px;}
+.about { box-shadow:0px -1px 1px rgba(0,0,0,0.2); padding:10px 0 90px; background:url(../img/body.png)repeat; }
+.right img { float:right;  border-radius:1px; margin:20px 0;
+  box-shadow: 0px 0px  6px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(255, 255, 255, 0.4) inset, 0 -1px 1px rgba(255, 255, 255, 0.3) inset, 0 1px 3px rgba(0, 0, 0, 0.3); } 
+.left img { float:left;  border-radius:1px;  margin:20px 0;
+  box-shadow: 0px 0px  6px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(255, 255, 255, 0.4) inset, 0 -1px 1px rgba(255, 255, 255, 0.3) inset, 0 1px 3px rgba(0, 0, 0, 0.3); } 
+.about h3 { font-size:22px; font-weight:600; color:#4b4f51; margin:30px 0 0; text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3); }
+.about h6 { font-size:18px; font-weight:500; color:#b5bec2;  margin:25px 0 0; } 
+.about p { font-size:14px; line-height:32px; margin:20px 0; }
+.divi-sub {  margin:0px 0;  background-color:#dadcdd;  height:1px; width:100%; display:block; }
+.abtt { padding:50px 0; }
+footer { box-shadow:0px 0px 0px rgba(0,0,0,0); }
+
+
+/*  Contactus */
+
+.contact { padding:60px 0; background:url(../img/body.png)repeat; }
+.contact h6 { font-size:36px; font-weight:600;}
+.cont { padding:0 20px;border-left:1px solid #dadcdd; }
+.cont a{ font-size:14px; text-decoration:underline; }
+.cont p { padding: 20px 0; line-height:28px; font-size:14px; color:#7b8285; }
+.credits     { padding: 20px 0;   }
+.credits p   { padding: 5px 0;  line-height:28px; font-size:14px;  }
+.cont p strong  {   line-height:28px; font-size:14px; color:#47494a; }
+
+.form-contact  { float:left; width:100%; }
+.form-contact input, .form-contact textarea { border-radius:20px;     font-family: 'Titillium Web', sans-serif;
+  }
+  .form-contact input:focus , .form-contact textarea:focus {  border: 1px solid #CCCCCC;
+  }
+.form-contact input { float:left; width:41%; height:30px; padding:5px 20px; }
+.input-email {  margin:0 0 0 20px;   }
+.form-contact textarea { float:left; width:92%; height:200px; padding:5px 20px; margin:20px 0 0; }
+input.input-submit {   float:right; width:141px; margin:30px 0 0; height:40px; }
+
+input { border:0;   font-family: 'Titillium Web', sans-serif; color:#fff;  }
+input:focus { border:0; outline:0; }
+input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus {  color: #191919;border-color:#cccccc;box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3),  1px 1px 2px rgba(0, 0, 0, 0) inset; }
+input:focus:valid:focus, textarea:focus:valid:focus, select:focus:valid:focus {  color: #191919;border-color:#cccccc;box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3),  1px 1px 2px rgba(0, 0, 0, 0) inset; }
+
+#success { color:red; margin:20px 0; }

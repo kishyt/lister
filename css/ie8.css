@@ -1,0 +1,8 @@
+/* IE8 Styles to fix some issues  */
+
+input.name-newsletter, input.email-newsletter, input.phone-newsletter { padding:10px 0px 0 20px; color:#909090; border-radius:20px; height:30px;  width:95%; margin:22px 0 0;   -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px; border:0; outline:0; box-shadow:0;}
+
+input.name-newsletter:focus, input.email-newsletter:focus, input.phone-newsletter:focus { border:0; outline:0; box-shadow:0;  }

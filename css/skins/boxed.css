@@ -1,0 +1,12 @@
+/*  Logo and Header Navigation */
+
+.wrap-switcher { width:1000px; margin:0 auto; box-shadow: 0px 0px  6px rgba(0, 0, 0, 0.2),  0 1px 2px rgba(0, 0, 0, 0.3);  }
+body {  
+	background:url("../../img/boxed/wood.jpg") repeat !important;
+	padding:30px 0;
+      }
+ .howitwork, .screenshots, .testimonials, footer { background:url("../../img/body.png") repeat !important;}
+ 
+@media(min-width: 768px) and (max-width: 979px) {  .wrap-switcher { width:750px; margin:0 auto;  }   }
+@media(min-width: 480px) and (max-width: 767px) { .wrap-switcher { width:500px; margin:0 auto; } }
+@media(max-width:480px) { body{ padding:0; } .wrap-switcher { width:320px !important; margin:0 auto;  } }

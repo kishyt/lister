@@ -1,0 +1,38 @@
+/*  Logo and Header Navigation */
+
+.logo {  background:url(../../img/logo/logo-purple.png)no-repeat; display:block;} 
+
+.navi li.active {  border-top:3px solid #8a2cb1; } 
+
+
+/*  Main Section */
+
+.main { background-color:#8a2cb1; }
+  
+input.button-newsletter  {  background: url(../../img/buttons/arrow-purple.png) no-repeat scroll 92px 11px #fafafa  ; }
+
+
+/*  How it works Hover */
+
+.featu p.step-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #8a2cb1;}
+
+/*  Features Check Icon */
+
+.feature1 li {  background:url(../../img/icons/check-purple.png) no-repeat;  }
+
+
+/*  Screenshots Tabs active */
+
+.tabs-ul li.ui-tabs-active a { background-color:#8a2cb1;} 
+
+/*  Testimonials Hover */
+
+.quote img.quote-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #8a2cb1;}
+
+/*  Action */
+
+.action { background:url(../../img/gradient.png) top no-repeat #8a2cb1;    }
+.action h3 {   background: url(../../img/icons/action-purple.png) no-repeat scroll 0px 0px  ; }
+
+.action-button { background: url(../../img/buttons/arrow-purple.png) no-repeat scroll 110px 11px #fafafa  ; }
+input.input-submit  { background-color:#8a2cb1; }

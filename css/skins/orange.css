@@ -1,0 +1,38 @@
+/*  Logo and Header Navigation */
+
+.logo {  background:url(../../img/logo/logo-orange.png)no-repeat; display:block;} 
+
+.navi li.active {  border-top:3px solid #f8633a; } 
+
+
+/*  Main Section */
+
+.main { background-color:#f8633a; }
+  
+input.button-newsletter  {  background: url(../../img/buttons/arrow-orange.png) no-repeat scroll 92px 11px #fafafa  ; }
+
+
+/*  How it works Hover */
+
+.featu p.step-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #f8633a;}
+
+/*  Features Check Icon */
+
+.feature1 li {  background:url(../../img/icons/check-orange.png) no-repeat;  }
+
+
+/*  Screenshots Tabs active */
+
+.tabs-ul li.ui-tabs-active a { background-color:#f8633a;} 
+
+/*  Testimonials Hover */
+
+.quote img.quote-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #f8633a;}
+
+/*  Action */
+
+.action { background:url(../../img/gradient.png) top no-repeat #f8633a;    }
+.action h3 {   background: url(../../img/icons/action-orange.png) no-repeat scroll 0px 0px  ; }
+
+.action-button { background: url(../../img/buttons/arrow-orange.png) no-repeat scroll 110px 11px #fafafa  ; }
+input.input-submit  { background-color:#f8633a; }

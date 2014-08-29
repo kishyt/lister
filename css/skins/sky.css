@@ -1,0 +1,38 @@
+/*  Logo and Header Navigation */
+
+.logo {  background:url(../../img/logo/logo-blue.png) no-repeat ; display:block; height:28px; width:148px;} 
+
+.navi li.active  {  border-top:3px solid #49b0e7;} 
+
+
+/*  Main Section */
+
+.main { background :url(../../img/skins/bg1.png) no-repeat ;  }
+ 
+input.button-newsletter  {  background: url(../../img/buttons/arrow-blue.png) no-repeat scroll 92px 11px #fafafa  ; }
+
+
+/*  How it works Hover */
+
+.featu p.step-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #49b0e7;}
+
+/*  Features Check Icon */
+
+.feature1 li {  background:url(../../img/icons/check-blue.png) no-repeat;  }
+
+
+/*  Screenshots Tabs active */
+
+.tabs-ul li.ui-tabs-active a { background-color:#49b0e7;} 
+
+/*  Testimonials Hover */
+
+.quote img.quote-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #49b0e7;}
+
+/*  Action */
+
+.action { background :url(../../img/skins/bg1.png) no-repeat ;    }
+.action h3 {   background: url(../../img/icons/action-blue.png) no-repeat scroll 0px 0px  ; }
+
+.action-button { background: url(../../img/buttons/arrow-blue.png) no-repeat scroll 110px 11px #fafafa  ; }
+input.input-submit  { background-color:#49b0e7; }
