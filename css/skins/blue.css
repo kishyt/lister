@@ -32,7 +32,7 @@ input.button-newsletter  {  background: url(../../img/buttons/arrow-blue.png) no
 /*  Action */
 
 .action { background:url(../../img/gradient.png) top no-repeat #2fbaff;    }
-.action h3 {   background: url(../../img/icons/action-blue.png) no-repeat scroll 0px 0px  ; }
+/*.action h3 {   background: url(../../img/icons/action-blue.png) no-repeat scroll 0px 0px  ; }*/
 
 .action-button { background: url(../../img/buttons/arrow-blue.png) no-repeat scroll 110px 11px #fafafa  ; }
 input.input-submit  { background-color:#49b0e7; }

@@ -87,7 +87,7 @@ h2 { font-size:16px; text-align:center;  font-weight:500;}
 header { background:url("../img/bg.png") repeat-x;  position: relative; z-index:5; height:76px; display:block;   }
 
 /* NOTE : To edit Logo css , go to Skins/Blue.css  */
-.logo { float:left; margin:22px 0 0; width:146px; height:28px;  display:block;} 
+.logo { float:left; margin:16px 0 0; width:166px; height:43px;  display:block;} 
 
 .navi { float:right; width:240px;  }
 .navi li { float:left; width:80px; border-top:3px solid #fff; } 
@@ -375,8 +375,13 @@ footer { height:105px; }
 .about { padding:0 0 10px!important; }
  }
 
+.modalconfirmation {
+  text-align: center;
+}
  
- 
+.modalconfirmation .modal-body p {
+  text-align:center;
+}
  
  
  
